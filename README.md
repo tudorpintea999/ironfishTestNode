@@ -1,5 +1,5 @@
 ![Iron Fish](https://user-images.githubusercontent.com/767083/113650890-d8414c80-9645-11eb-8f4d-2427fc322ce4.png)
-
+https://ironfish.network/use/get-started/installation
 # Iron Fish
 
 ![Node CI](https://github.com/iron-fish/ironfish/actions/workflows/ci.yml/badge.svg)
